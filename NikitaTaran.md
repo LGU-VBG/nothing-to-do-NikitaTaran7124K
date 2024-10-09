@@ -6,4 +6,5 @@
 - 2.Нескучные объяснения
 - 3.[Удобный](https://ru.wiktionary.org/wiki/%D1%83%D0%B4%D0%BE%D0%B1%D0%BD%D1%8B%D0%B9) поиск
 - 4.Легкий
-- 5.Универсальный 
+- 5.Универсальный ![дока2](https://github.com/user-attachments/assets/cd2d3b33-c882-4e35-a211-d798d8b7d3e1)
+
